@@ -7,4 +7,10 @@
 
 ### [AUDIO TIME-SCALING FOR SLOW MOTION SPORTS VIDEOS](http://tcts.fpms.ac.be/publications/papers/2013/dafx2013_slowdio.pdf)
 
+### [音视频变速播放算法及其在IPTV中应用的研究](http://xueshu.baidu.com/s?wd=paperuri%3A%280dbae6d183bedccfd0a16587023648f9%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.doc88.com%2Fp-093375801749.html&ie=utf-8&sc_us=15683795071094229900)
+
+### [Improved Phase Vocoder Time-Scale Modification of Audio](http://ai2-s2-pdfs.s3.amazonaws.com/0e4c/1fae5056859a18211510a6d579989d29951e.pdf)
+
+
+
 
